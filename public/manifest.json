@@ -1,0 +1,20 @@
+{
+  "name": "開心數學樂園 Happy Math Playground",
+  "short_name": "開心數學",
+  "description": "香港 K2、K3 小朋友互動數學練習 / Interactive math practice for Hong Kong K2 & K3 children",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#bae6fd",
+  "theme_color": "#38bdf8",
+  "lang": "zh-HK",
+  "categories": ["education", "kids"],
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
